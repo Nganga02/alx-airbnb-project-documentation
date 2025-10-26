@@ -1,4 +1,4 @@
-# Airbnb Backend – Features & Functionalities
+# Airbnb Clone Backend – Features & Functionalities
 
 This document outlines the core features and functionalities that the backend of the Airbnb Clone must support. It serves as a high-level system blueprint to guide development before coding begins. The goal is to clearly define what the system must do, for whom, and under what conditions.
 
